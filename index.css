@@ -1,0 +1,12 @@
+body{
+    margin: 20px;
+
+}
+.background{
+    top: 0;
+    background-image: url(./images/mainSection.jpg);
+    position: absolute;
+    z-index: -1;
+    left: 0;
+}
+
